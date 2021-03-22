@@ -4,7 +4,7 @@
   comme les chemins d'accès sont spécifiques à Fedora, cependant, rien de sorcier, si vous avez reussi à changer
   de distribution vous réussirez à en ajouter une.
 
-### 0. Prérequis,
+### 0. Prérequis
   a. Un ordinateur avec un disque dur disposant d'assez d'espace libre pour votre nouvel OS
      avec si vous le souhaitez, Fedora 32 et Windows 10 déja installés.
     
@@ -14,6 +14,7 @@
 
 ### 1. Créez une clé usb bootable de votre nouveau Linux
   a. vous pouvez utiliser le logiciel BalenaEtcher sous windows ou Linux : https://www.balena.io/etcher
+  
   b. Redémarrez votre machine et bootez sur la clé
   
 ### 2. Installez votre nouvel OS sans installer de logiciel dit "bootloader"
