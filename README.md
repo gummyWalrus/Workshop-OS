@@ -10,8 +10,6 @@
     
   b. Une clé USB avec assez d'espace libre pour contenir l'installateur de votre nouvel OS.
   
-  c. Etre conscient qu'une fausse manip peut endommager vos autres systèmes d'exploitation ou vous faire perdre vos données.
-
 ### 1. Créez une clé usb bootable de votre nouveau Linux
   a. vous pouvez utiliser le logiciel BalenaEtcher sous windows ou Linux : https://www.balena.io/etcher
   
