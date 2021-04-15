@@ -29,7 +29,7 @@
   Vous avez installer votre OS, plus qu'a lui donner vie !
   Pour se faire commencer par monter la partition où se trouve votre nouvel OS dans votre système.
  
-  A présent que vous avez monter la bonne partition vous devez récupérer ses informations, pour ce faire,
+  A présent que vous avez monté la bonne partition, vous devez récupérer ses informations, pour ce faire,
   vous devez d'abord installer le cli pour linux os-prober.
   Puis mettez à jour la configuration de grub,
     "grub2-mkconfig -o /chemin/de/la/config/grub.cfg"
@@ -38,7 +38,7 @@
     \!/ Vous devez théoriquement placer la configuration au bon endroit, avant de \!/
     \!/     faire cette commande, vérifiez l'emplacement du fichier grub.cfg      \!/
     
-  Le fichier grub.cfg d'origine doit se trouver au meme endroit que vous mettez dans la commande "grub2-mkconfig".
+  Le fichier grub.cfg d'origine doit se trouver au chemin que vous spécifiez après le -o de la commande "grub2-mkconfig".
   
   Une fois que vous avez entrez la commande, Grub est sensé detecté votre nouvel OS et afficher un message du type :
   "Found <Nom de votre nouvel OS> on <la partition du nouvel OS>"
