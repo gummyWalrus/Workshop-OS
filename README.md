@@ -41,7 +41,7 @@
   Le fichier grub.cfg d'origine doit se trouver au chemin que vous spécifiez après le -o de la commande "grub2-mkconfig".
   
   Une fois que vous avez entrez la commande, Grub est sensé detecté votre nouvel OS et afficher un message du type :
-  "Found <Nom de votre nouvel OS> on <la partition du nouvel OS>"
+  "Found ${Nom de votre nouvel OS} on ${la partition du nouvel OS}"
   par exemple : "Found Kali Linux 5.4.1 on /dev/sda2"
   
   Si tout est normal et que le message s'est bien affiché, vous n'avez plus qu'a redémarrer la machine
