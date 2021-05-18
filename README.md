@@ -17,7 +17,7 @@
   
 ### 2. Installez votre nouvel OS sans installer de logiciel dit "bootloader"
 
-  Les programmes d'installation d'OS installent généralement un logiciel comme Grub2, ces logiciels appelés bootloaders,
+  Les programmes d'installation d'OS installent généralement un logiciel comme Grub2, ces logiciels sont appelés bootloaders,
   grub démarre votre OS à l'allumage de la machine. Dans le cas présent nous avons déjà un bootloader.
   (Grub2 si vous avez la config d'epitech avec le dual boot windows et Fedora)
   
