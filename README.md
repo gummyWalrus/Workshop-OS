@@ -1,6 +1,6 @@
 ## Workshop HUB : Installer une nouvelle distribution de Linux en multi boot sur les config d'epitech
   
-  Dans l'idée globale ce workshop fonctionne pour toutes les architectures avec Linux mais certaines choses
+  Dans l'idée globale ce workshop fonctionne pour toutes les distributions de Linux mais certaines choses
   comme les chemins d'accès sont spécifiques à Fedora, cependant, rien de sorcier, si vous avez reussi à changer
   de distribution vous réussirez à en ajouter une.
 
