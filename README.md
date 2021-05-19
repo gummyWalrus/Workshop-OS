@@ -25,7 +25,7 @@
   pretez attention aux instructions à l'écran pour ne pas vous tromper. Pretez également attention à la partition de votre disque où s'installe l'OS,
   vous en aurez besoin plus tard.
   
-### 3. Charger l'os dans la configuration du bootloader actuel
+### 3. Ajoutez l'OS à la configuration de votre bootloader
   Vous avez installer votre OS, plus qu'a lui donner vie !
   Pour se faire commencer par monter la partition où se trouve votre nouvel OS dans votre système.
  
